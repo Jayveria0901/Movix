@@ -1,4 +1,4 @@
-# Movix
+# MoonFlix
 
     Fullstack Responsive Movie Website 2022
 
